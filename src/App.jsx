@@ -107,4 +107,4 @@ function App() {
 
 export default App;
 
-//in this project are used: localStorage, useEffect, useImperativeHandle,
+//in this project are used: localStorage, useCallback, useImperativeHandle, useEffect,
